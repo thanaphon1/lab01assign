@@ -1,0 +1,24 @@
+body{
+    background-color: pink;
+   
+    text-align: center;
+}
+h5{
+    color: yellow;
+}
+tr,th{
+    padding: 5px;
+    color:blue;
+    background-color: pink;
+    border: 2px solid black;
+    text-align: center;
+    margin: 50px;
+}
+td{
+    padding: 20px;
+    color:blue;
+    background-color: pink;
+    border: 2px solid black;
+    text-align: center;
+    margin: 50px;
+}
